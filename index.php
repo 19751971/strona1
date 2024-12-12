@@ -38,8 +38,7 @@ header('Content-Type: text/html; charset=UTF-8');
 <body>
     <h1>Joan Miro</h1>
     <div class="gallery">
-        <img crossorigin='anonymous' src="https://uploads5.wikiart.org/images/joan-miro/the-smile-of-the-flamboyant-wings.jpg!Large.jpg" alt="The Smile of the Flamboyant Wings">
-        <img crossorigin='anonymous' src="https://uploads8.wikiart.org/images/joan-miro/maternity.jpg!Large.jpg" alt="Maternity">
+        <img src="farm.jpg">
     </div>
 </body>
 </html>
